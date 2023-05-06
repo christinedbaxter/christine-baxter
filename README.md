@@ -2,7 +2,7 @@
 
 ### :hammer_and_wrench: Languages
 
-work-in-progress
+update-in-progress
 
 <!-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) -->
 
@@ -20,7 +20,7 @@ work-in-progress
 
 ### Technologies
 
-work-in-progress
+update-in-progress
 
 <!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -35,11 +35,13 @@ work-in-progress
 
 ### Data Analytic Projects
 
-work-in-progress
+update-in-progress
 
 <!-- [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
 
 ### Full Stack Projects
+
+update-in-progress
 
 <!-- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
