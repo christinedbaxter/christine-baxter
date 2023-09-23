@@ -1,4 +1,3 @@
-# Christine's GitHub Profile
 
 ![](profileBanner.gif)
 
