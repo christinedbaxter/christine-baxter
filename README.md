@@ -17,10 +17,9 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy&logoColor=white) <sup>|</sup>
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib&logoColor=white) <sup>|</sup>
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn&logoColor=white) <sup>|</sup>
-![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=seaborn&logoColor=white) <sup>|</sup>
+![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=seaborn&logoColor=white)<sup>/</sup>![Folium](https://img.shields.io/badge/-Folium-000?&logo=seaborn&logoColor=white) <sup>|</sup>
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=seaborn&logoColor=white) <sup>|</sup>
 ![statsmodel](https://img.shields.io/badge/-statsmodel-000?&logo=seaborn&logoColor=white) <sup>|</sup>
-![Folium](https://img.shields.io/badge/-Folium-000?&logo=seaborn&logoColor=white) <sup>|</sup>
 ![MissingNo](https://img.shields.io/badge/-missingno-000?&logo=seaborn&logoColor=white) <sup>|</sup>
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=white) <sup>|</sup>
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=white)
